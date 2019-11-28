@@ -1,0 +1,5 @@
+{
+  "name": "scaffold_aws_capistrano",
+  "private": true,
+  "dependencies": {}
+}
